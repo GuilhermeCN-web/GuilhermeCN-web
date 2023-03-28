@@ -8,7 +8,6 @@
 - 📎Sei lá...
 
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> +
-<img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> + 
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> +
