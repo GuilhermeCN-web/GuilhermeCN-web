@@ -1,5 +1,5 @@
 ### Fala Filhão 👋
-- 🔭 Estou trabaçhando em um projeto de HTML.
+- 🔭 Estou trabalhando em um projeto de HTML.
 - 🌱 Estou aprendendo C#, git, python e logo depois PHP e React.
 - 🤔 Estou procurando ajuda com C# e PHP. 
 - ⚡ Me divirto tanto com HTML que eu casaria com o index, pena que ele já tem compromisso com o CSS.
