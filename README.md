@@ -6,15 +6,13 @@
 - 💪🏻 Pronome: Aqui meu amigo é macho.
 - 🖥 Windows 11 Pro
 - 📎Sei lá...
-
+- 💡 Sou tipo o Bill Gates, foda, mas não sou broxa kkkkkkkkkkk.
 
 <div align="center">
 <a href="https://github.com/LukEscopeta">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukEscopeta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukEscopeta&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-
 
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> + 
@@ -25,18 +23,3 @@
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> +
-- 💡 Sou tipo o Bill Gates, foda, mas não sou broxa kkkkkkkkkkk.
-
-  
-  
-  
-  ##
-
-  ![Snake animation](https://github.com/LukEscopeta/LukEscopeta/blob/output/github-contribution-grid-snake.svg)
-
- 
-
-  ##
-
-
-  ### ⚠️ My projects still don't have a proper README, but they will soon ⚠️
