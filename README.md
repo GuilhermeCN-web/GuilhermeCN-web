@@ -1,6 +1,6 @@
 ### Fala Filhão 👋
 - 🔭 Estou trabalhando em um projeto de HTML.
-- 🌱 Estou aprendendo C#, Git, python, PHP e logo depois e React.
+- 🌱 Estou aprendendo C#, Git, python, PHP e logo depois e React e C++.
 - 🤔 Estou procurando ajuda com C#, Git JavaScript e PHP. 
 - ⚡ Me divirto tanto com HTML que eu casaria com o index, pena que ele já tem compromisso com o CSS.
 - 💪🏻 Pronome: Aqui meu amigo é macho.
