@@ -11,6 +11,7 @@
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> +
+<img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
           
