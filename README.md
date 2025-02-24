@@ -1,10 +1,10 @@
-Olá, Mundo! 👋
+<h1><strong>Olá, Mundo! 👋</strong></h1>
+<br>
 💪🏻 Me especializando em desenvolvimento web
+<br>
 🖥 Usando Windows 11 Pro
 
-📚 Aqui você encontrará projetos que refletem minha jornada de aprendizado. Atualmente, estou trabalhando com as seguintes tecnologias:
-
-🚀 Linguagens e Ferramentas:
+📚 Aqui você encontrará projetos que refletem minha jornada de aprendizado. Atualmente, estou estudando com as seguintes linguagens e ferramentas:
 
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> +
@@ -20,7 +20,7 @@ Olá, Mundo! 👋
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
-Sempre buscando aprender mais e construir aplicações cada vez melhores!
+🚀 Sempre buscando aprender mais e construir aplicações cada vez melhores!
 
 
 
