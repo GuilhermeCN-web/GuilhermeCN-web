@@ -1,6 +1,7 @@
 ### Olá Mundo 👋
-- 💪🏻 Experiência em HTML, CSS, PHP, C#, e SQL
+- 💪🏻 Me especializando em desenvolvimento web
 - 🖥 Windows 11 Pro
+- 📚 Essas são as linguagens de programação e programas que aprendi e estou aprendendo
 
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> +
