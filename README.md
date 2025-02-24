@@ -1,7 +1,10 @@
-### Olá Mundo 👋
-- 💪🏻 Me especializando em desenvolvimento web
-- 🖥 Windows 11 Pro
-- 📚 Pode se ver abaixo as linguagens de programação e programas que aprendi e estou aprendendo:
+Olá, Mundo! 👋
+💪🏻 Me especializando em desenvolvimento web
+🖥 Usando Windows 11 Pro
+
+📚 Aqui você encontrará projetos que refletem minha jornada de aprendizado. Atualmente, estou trabalhando com as seguintes tecnologias:
+
+🚀 Linguagens e Ferramentas:
 
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> +
@@ -16,6 +19,10 @@
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+Sempre buscando aprender mais e construir aplicações cada vez melhores!
+
+
 
           
           
