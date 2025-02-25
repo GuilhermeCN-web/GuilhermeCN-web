@@ -1,10 +1,10 @@
-<h1><strong>Olá, Mundo! 👋</strong></h1>
+<h1><strong>Hello, World! 👋</strong></h1>
 <br>
-💪🏻 Me especializando em desenvolvimento web
+💪🏻 Specializing in web development  
 <br>
-🖥 Usando Windows 11 Pro
+🖥 Using Windows 11 Pro  
 
-📚 Aqui você encontrará projetos que refletem minha jornada de aprendizado. Atualmente, estou estudando as seguintes linguagens e ferramentas:
+📚 Here you will find projects that reflect my learning journey. Currently, I am studying the following languages and tools:  
 
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> +
@@ -26,10 +26,4 @@
     </a>
 </div>
 
-🚀 Sempre buscando aprender mais e construir aplicações cada vez melhores!
-
-
-
-          
-          
-          
+🚀 Always striving to learn more and build even better applications!  
