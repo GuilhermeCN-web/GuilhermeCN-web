@@ -20,6 +20,12 @@
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
+<div>
+    <a href="https://github.com/GuilhermeCN-web">
+        <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCN-web&layout=compact&langs_count=16&theme=dracula"/>
+    </a>
+</div>
+
 🚀 Sempre buscando aprender mais e construir aplicações cada vez melhores!
 
 
