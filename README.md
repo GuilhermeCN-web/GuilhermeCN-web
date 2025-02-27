@@ -30,6 +30,6 @@
     </a>
 </div>
 
-🚀 Always striving to learn more and build even better applications!  
+🚀 Always striving to learn more and build even better systems and websites!  
 
 [![Traduzir](https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Translate_logo.svg)](https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/GuilhermeCN-web)
