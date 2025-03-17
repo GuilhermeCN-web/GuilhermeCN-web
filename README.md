@@ -24,6 +24,10 @@
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
 <br>
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCN-web&bg_color=0d1117&color=#ED1C24&line=#ED1C24&point=5191c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 <div>
     <a href="https://github.com/GuilhermeCN-web">
         <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCN-web&layout=compact&langs_count=16&theme=dracula"/>
