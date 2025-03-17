@@ -26,7 +26,7 @@
 <br>
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCN-web&bg_color=0d1117&color=#ED1C24&line=#ED1C24&point=5191c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCN-web&bg_color=10001F&color=ff0000&line=264DE4&point=F7DF1E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <div>
     <a href="https://github.com/GuilhermeCN-web">
