@@ -24,7 +24,6 @@
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
 <br>
----
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCN-web&bg_color=10001F&color=ff0000&line=264DE4&point=F7DF1E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
