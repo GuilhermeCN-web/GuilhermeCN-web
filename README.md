@@ -4,7 +4,7 @@
  
 <br>
 
-📚 Here you will find projects that reflect my learning journey. Currently, I am studying the following languages and tools:  
+<h2>📚 Here you will find projects that reflect my learning journey. Currently, I am studying the following languages and tools:</h2>
 <div>
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> +
@@ -34,6 +34,6 @@
     <img height="300" width="589" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdycWhjYjU3cnVvYjZncjNyY3RlNXcxd2doamVwdmxmNngzcjVmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlCroSFHV8uoko/giphy.gif" alt="GIF Animation" />
 </div>
 
-🚀 Always striving to learn more and build even better systems and websites!  
+<h2>🚀 Always striving to learn more and build even better systems and websites!</h2>
 
 [![Traduzir](https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Translate_logo.svg)](https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/GuilhermeCN-web)
