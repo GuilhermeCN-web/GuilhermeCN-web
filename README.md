@@ -4,7 +4,7 @@
  
 <br>
 
-<h2>📚 Here you will find projects that reflect my learning journey. Currently, I am studying the following languages and tools:</h2>
+<h2>📚 Here you will find projects that reflect my learning journey. Currently, I am studying the following languages, tools and frameworks:</h2>
 <div>
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> +
