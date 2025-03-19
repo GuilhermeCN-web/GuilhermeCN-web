@@ -35,7 +35,7 @@
     </a>
     <img height="300"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdycWhjYjU3cnVvYjZncjNyY3RlNXcxd2doamVwdmxmNngzcjVmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlCroSFHV8uoko/giphy.gif" alt="GIF Animation" />
 </div>
-// [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Guilherme-hn7th)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Guilherme-hn7th)
 
 <h2>🚀 Always striving to learn more and build even better systems and websites!</h2>
 
