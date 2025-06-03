@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+👋;I'm+Guilherme+Corrêa+Narcizo;I'm+studying+systems+analysis+and+development;I'm+focusing+on+front+end+development.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+👋;I'm+Guilherme+Corrêa+Narcizo;I'm+studying+systems+analysis+and+development;I'm+focusing+on+front-end+development.;)](https://git.io/typing-svg)
  
 <br>
 
@@ -20,7 +20,7 @@
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> +
-<img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />+
 </div>
 <br>
 
