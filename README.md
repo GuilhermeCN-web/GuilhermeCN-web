@@ -31,7 +31,7 @@
     <a href="https://github.com/GuilhermeCN-web">
         <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCN-web&layout=compact&langs_count=16&theme=dracula"/>
     </a>
-    <img height="300" width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB2dTV1bTg4a2NsMTdqdXV6c21xN2k2c2wwN2I5NGx6MTdkYjdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif" alt="GIF Animation" />
+    <img height="300" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejB2dTV1bTg4a2NsMTdqdXV6c21xN2k2c2wwN2I5NGx6MTdkYjdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif" alt="GIF Animation" />
 </div>
 
 <h2>🚀 Always striving to learn more and build even better systems and websites!</h2>
