@@ -4,7 +4,7 @@
  
 <br>
 
-<h2>📚 Here you will find projects that reflect my learning journey. Currently, I am studying the following languages, tools and frameworks:</h2>
+<h1>📚 Here you will find projects that reflect my learning journey. Currently, I am studying the following languages, tools and frameworks:</h1>
 <div>
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> +
 <img height=50px; width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> +
@@ -34,7 +34,7 @@
 
 <div>
     <a href="https://github.com/GuilhermeCN-web">
-        <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCN-web&layout=compact&langs_count=16&theme=dracula"/>
+        <img height="350px" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCN-web&layout=compact&langs_count=16&theme=dracula"/>
     </a>
 </div>
 
