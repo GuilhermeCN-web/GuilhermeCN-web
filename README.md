@@ -36,12 +36,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCN-web&bg_color=none&color=0341D9&line=CE30FF&point=F7DF1E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
-<div>
-    <a href="https://github.com/GuilhermeCN-web">
-        <img height="350px" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCN-web&layout=compact&langs_count=16&theme=dracula"/>
-    </a>
-</div>
-
 <h2>🚀 Always striving to learn more and build even better systems!</h2>
 
 [![TRADUZIR](https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Translate_logo.svg)](https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/GuilhermeCN-web)
