@@ -6,7 +6,7 @@
 
 # 🚀 About Me
 
-I'm currently studying **Systems Analysis and Development** and focusing on becoming a **Front-End Developer**.
+I'm currently studying **Systems Analysis and Development** and focusing on becoming a **Full-Stack Developer**.
 
 I enjoy creating responsive, modern and user-friendly applications while continuously improving my programming skills.
 
