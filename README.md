@@ -51,9 +51,10 @@ Here you'll find projects that document my learning journey, experiments and per
 
 <p>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>&nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;&nbsp;
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />&nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"/>&nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>&nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>&nbsp;&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>&nbsp;&nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg"/>
 </p>
 
